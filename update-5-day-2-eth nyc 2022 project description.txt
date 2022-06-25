@@ -1,0 +1,162 @@
+update 5-
+-bought domain- nonfungiblebook.club
+-successfukky minted nft with TATUM
+-created partial smart contract with TATUM
+-Issues with TATUM NFT Url loading, had issues ccheking if NFT minted on Opensea, turns out the opensea issue was bad wifi, nft appears in hidden items in opensea on testnet. still cant find nft mint page url.
+-use TATUM as admin tool as a way to manually add Book NFT to those with difficulty minting
+-use TATUM as admin tool for those wishing to mint on other chains outside of eth or polygon.
+-continue using niftykit because it is zk proof.
+
+Created test google form quiz for POAP Book Read-- see below--
+https://forms.gle/k8SGVARAniDefrd99
+
+------
+
+update 4- Day 2.
+
+seeking mentors at the venue. came in by train just to ask questions. running on 3.5 hours of sleeep.
+added aditional resources and links to the list.
+-Page Dao minter- uses the polygon blockchain- need a membership card nft to access, token gated
+-Room707.io - token gated, poetry book by Jessica Yatrofsky, secret discord for nft holders that is a writers room
+-asked questionst to mentors/devs about how api keys work
+-seeking help and guidance from TATUM as i struggled with their tooling last night after gaining my api key.
+-Unstoppable Domain is set up. can visit the webiste using brave berowser. still need to do art
+-adding brave browser to resource list, pays creators for browsing via tips in $BAT
+-seeking help and guidance from mentors/DEVs at EPNS after i attempt to set that up so i can test the POAP messeging system
+-potential idea for incorporating NFC stickers in Phygital Books that allow 1 extra NFT Degen/free Mint, Burn situation again or allows to gift to a friend  via paid phygital fundraised book.
+this allows fundraising for creators. research into authenticatition token nft for physical book. sign each book over the nfc tag to prevent fraud and duplicates.
+-seeked guidance/asked questions with STORJ about ZK tools to upload to IPFS, resource added to list.
+-seeked guidance/asked questions with FILECOIN/NFTSTORAGE about ZK tools to upload to IPFS, resource added to list.
+-creating a resource list of authors on the blockchain and similar related projects, connect them.
+-Post event, research coding classes and learn to code.
+-added a notation about Banned books and backing up data via IPFS and possible future censorship and TOS issues
+-messaged algorand team about possible POAP integration and cross chain integraition in regards to EPNS, TATUM may have already solved this issue though, same with the harmony issue.
+ 
+
+
+
+update-3
+
+2% flaw in contract 
+
+Interoperability cross chain flaw-flare network(Turing Complete Blockchain) launches 7/4/22, Songbird is the testnet
+
+Other missing chains that flare network doesnt coover for Interoperability, perhaps can use Tatum for that issue? 
+
+Full degen mode 
+
+Thus could lead to medical data on the blockchain 🤔 because it would prevent sales of the data by going full degen smart contract locking secondary sales so they can't happen, visit Drs get private/personal/notnpublic soul bound tokens?
+
+Wen POAP?- answer, get POAP for reading books.
+
+NETWORK EFFECTS and metcalfes law, connecting blockchain to create a better world, 
+Connext- potential medical use cases? Polygon is working on a medical data use case project. connect them.
+
+Creative commons and public domain-
+Allows new artists to get showcased, same with POAP. This falls under a "public goods" use case!
+
+
+
+
+
+
+update- Didnt consider the reselling aspect initially of the  book nft after reading.
+
+update 2- 
+to disincentivise selling the free/degen book mints i bumped the smart contracts secondary sales to 98% 
+this essentially causes a reseller to burn their book when selling while giving 98% of profits to the author or the Dao which can be used for the purpose of funding authors.
+to prevent abuse of minting frequent recursion mints, i limited the number of mints per wallet to 1. this ensures that only 1 wallet per book. 
+
+
+
+
+
+
+
+
+
+POAP Book Club DAO
+"Get POAP's for Reading"
+
+I can't code, But I can write!
+
+
+Tatum.io - usage for push notifications to moniter degen book mint counts from account? 
+- Perhaps wallet generation via custodial monitering for onboarding new readers?
+
+
+POAP- use to create an mint POAPs for initial book mints and for awards for reading, quizzes, and community participation
+
+Unstoppable Domains- purchase and mint POAPbookclub.dao 
+-use this as the website and the token address
+
+wallet connect- use this to token gate the community to prevent POAP farming
+
+Google- use this to create the quizzes and surveys, users will have to enter their emails, this creates user authentication, again preventing POAP farming
+
+EPNS- Send push notifications to initial book mint POAP holders about community discussions(book talks, group reads), quizzes available notifications and need to pass in order to mint future POAP. 
+voting on next books to be read.
+
+Internet archive/Creative Commons/Public Domain- Resources for FREE book ideas for Degen Book Mints.
+
+OpenSea.io- Book NFT location
+
+Storj- IPFS NFT Data Backup- https://www.storj.io/ipfs
+
+Filecoin/NFTStorage- additional IPFS Data Backup- NFT.STORAGE - ZK Tool is NFT UP Client.
+
+Polygon/MATIC- Mint on this blockchain due to low cost of gas fees.
+
+Resevoir- NFT API creation tool
+
+NIFTYkit- NFT Smart contract tool
+
+BLU3 DAO- Hackathon Team, Motto is "Learn, Play, Earn"
+
+
+
+
+Poap book club dao! Im going to do this idea for my eth nyc hackathon project! Using poaps to encourage reading books and incentivizing education in a way that encourages reading and community building. Think a virtual book club on the blockchain that can partner with independent authors who struggle to get published. This will then allow the authors to build a community and the readers to feels a sense of accomplishment by gaining a poap for reading and participating in conversations. This also would utilize the Ethereum messaging service to message poap holders who would be the dao members about when there is a new book, book discussions and voting on the next book to read. Poaps would become token gated via 
+1) book on blockchain ownership(degen mints) for entry to participate and 
+2) quizzes to receive the second poap.
+
+Poap holders of the quizzes can then recieve degen mints of new books.
+
+Blu3 daos theme is learn, play, earn
+
+
+Learn- reading
+Play-quizzes and book club chats
+Earn- poap
+
+Although this is being referred to as a dao, it would really follow more of a club or non profit/education model. As the focus is on education over profits. 
+
+Poap- bookmarks for your life
+Reading Books is a life event! 
+Community building is a great way to encourage reading 
+
+Choosing short stories and reading as a group among peers
+
+This leverages peer pressure in a positive way.
+
+Forced reading by schools often causes people to dislike reading an creates a disincentive. This combats that.
+
+Collecting is a fun hobby. Everyone collects something. Perhaps that's a reason why the number of Poap collectors are growing. Lets leverage this for educational incentives.
+
+Poaps would also solve the scaling issue of actual books purchased and read and create a ratio of purchased to read. This would create better metrics for authors. Often times publishers will purchase massive amounts of books and rig the best seller lists. Agents also make the publishing industry increasingly difficult because they are picky and publishers don't accept unsolicited manuscripts.
+
+
+Using zk tools, creates a practical approach. As many authors can't code. This creates a issue. However zk opens the door for authors. This also opens the door for mainstreaming adoption of both nfts and web3 wallets.
+
+
+Uploading to IPFS via multiple servers doubles as additional backup and adds an extra layer of security for events such as TOS(terms of service) issues with censorship and things like "Banned Books" and "Blacklisted Books"
+
+
+
+
+
+-Joseph Munisteri 
+Www.butterfliesin.space 
+
+
+
