@@ -1,0 +1,96 @@
+update- Didnt consider the reselling aspect initially of the  book nft after reading. 
+to disincentivise selling the free/degen book mints i bumped the smart contracts secondary sales to 98% 
+this essentially causes a reseller to burn their book when selling while giving 98% of profits to the author or the Dao which can be used for the purpose of funding authors.
+
+
+
+
+
+
+
+
+
+
+POAP Book Club DAO
+"Get POAP's for Reading"
+
+I can't code, But I can write!
+
+
+Tatum.io - usage for push notifications to moniter degen book mint counts from account? 
+- Perhaps wallet generation via custodial monitering for onboarding new readers?
+
+
+POAP- use to create an mint POAPs for initial book mints and for awards for reading, quizzes, and community participation
+
+Unstoppable Domains- purchase and mint POAPbookclub.dao 
+-use this as the website and the token address
+
+wallet connect- use this to token gate the community to prevent POAP farming
+
+Google- use this to create the quizzes and surveys, users will have to enter their emails, this creates user authentication, again preventing POAP farming
+
+EPNS- Send push notifications to initial book mint POAP holders about community discussions(book talks, group reads), quizzes available notifications and need to pass in order to mint future POAP. 
+voting on next books to be read.
+
+Internet archive/Creative Commons/Public Domain- Resources for FREE book ideas for Degen Book Mints.
+
+OpenSea.io- Book NFT location
+
+Storj- IPFS NFT Data Backup
+
+Filecoin/NFTStorage- additional IPFS Data Backup
+
+Polygon/MATIC- Mint on this blockchain due to low cost of gas fees.
+
+Resevoir- NFT API creation tool
+
+NIFTYkit- NFT Smart contract tool
+
+BLU3 DAO- Hackathon Team, Motto is "Learn, Play, Earn"
+
+
+Poap book club dao! Im going to do this idea for my eth nyc hackathon project! Using poaps to encourage reading books and incentivizing education in a way that encourages reading and community building. Think a virtual book club on the blockchain that can partner with independent authors who struggle to get published. This will then allow the authors to build a community and the readers to feels a sense of accomplishment by gaining a poap for reading and participating in conversations. This also would utilize the Ethereum messaging service to message poap holders who would be the dao members about when there is a new book, book discussions and voting on the next book to read. Poaps would become token gated via 
+1) book on blockchain ownership(degen mints) for entry to participate and 
+2) quizzes to receive the second poap.
+
+Poap holders of the quizzes can then recieve degen mints of new books.
+
+Blu3 daos theme is learn, play, earn
+
+
+Learn- reading
+Play-quizzes and book club chats
+Earn- poap
+
+Although this is being referred to as a dao, it would really follow more of a club or non profit/education model. As the focus is on education over profits. 
+
+Poap- bookmarks for your life
+Reading Books is a life event! 
+Community building is a great way to encourage reading 
+
+Choosing short stories and reading as a group among peers
+
+This leverages peer pressure in a positive way.
+
+Forced reading by schools often causes people to dislike reading an creates a disincentive. This combats that.
+
+Collecting is a fun hobby. Everyone collects something. Perhaps that's a reason why the number of Poap collectors are growing. Lets leverage this for educational incentives.
+
+Poaps would also solve the scaling issue of actual books purchased and read and create a ratio of purchased to read. This would create better metrics for authors. Often times publishers will purchase massive amounts of books and rig the best seller lists. Agents also make the publishing industry increasingly difficult because they are picky and publishers don't accept unsolicited manuscripts.
+
+
+Using zk tools, creates a practical approach. As many authors can't code. This creates a issue. However zk opens the door for authors. This also opens the door for mainstreaming adoption of both nfts and web3 wallets.
+
+
+
+
+
+
+
+
+-Joseph Munisteri 
+Www.butterfliesin.space 
+
+
+
