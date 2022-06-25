@@ -1,0 +1,1 @@
+curl --location --request POST 'https://api-us-west1.tatum.io/v3/nft/mint' --header 'x-api-key: 5c080476-7281-488e-bec0-4c43992ea832' --header 'Content-Type: application/json' --data-raw '{ "chain": "{ CHAIN }", "to": "0x66f046d4fCeF99106cba0A450f3cD19f3C1d7323", "url": "https://app.niftykit.com/drops/TPBC2" }'
